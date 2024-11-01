@@ -1,0 +1,1 @@
+{"students": {"57": {"name": "Mosfeq Ahamed Nayim", "age": 25, "address": "Mirpur-2", "grades": {"Algorith": "A"}, "courses": ["Algorith"]}, "45": {"name": "Marfy", "age": 25, "address": "Jashore", "grades": {}, "courses": []}}, "courses": {"313": {"course_name": "Algorith", "course_code": "313", "instructor": "Mofiz", "students": ["Mosfeq Ahamed Nayim"]}}}
